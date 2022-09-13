@@ -1,9 +1,5 @@
-### Hi there 👋
+### Hi there 👋 I am abhijeet, an I.T undergrad from India.
 
-<!--
-**Abhijeetx02/Abhijeetx02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🌱 I’m currently learning: C++
 - 👯 I’m looking to collaborate on: Projects
@@ -11,4 +7,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything
 - 📫 How to reach me: ...pathakabhijeet425@gmail.com
 - ⚡ Fun fact: Eager to learn
--->
+
